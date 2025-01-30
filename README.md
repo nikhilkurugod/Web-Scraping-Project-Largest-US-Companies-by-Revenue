@@ -1,4 +1,4 @@
-# Web-Scraping-Project-Largest-US-Companies-by-Revenue
+# Web-Scraping-Analysis-Largest-US-Companies-by-Revenue
 
 1. Import Libraries: Imports BeautifulSoup for parsing HTML, requests for fetching web pages, and pandas for creating and manipulating dataframes.
 
