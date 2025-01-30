@@ -10,7 +10,7 @@
 
 5. Extract Headers: Extracts the table headers column names from the <th> table header elements within the table.
 
-6. Extract Data Rows: Iterates through each row (<tr>) in the table (skipping the header row). For each row, it extracts the cell values (<td>) and stores them in a list. This list is then appended to the data list, creating a list of lists.
+6. Extract Data Rows: Iterates through each row ('<tr>') in the table (skipping the header row). For each row, it extracts the cell values (<td>) and stores them in a list. This list is then appended to the data list, creating a list of lists.
 
 7. Create DataFrame: Uses the pandas library to create a DataFrame from the extracted data. The previously extracted headers are used as column names.
 
